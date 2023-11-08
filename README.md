@@ -1,4 +1,4 @@
 # firstdemo
-This is first repositoryt
+This is first repository
 <br>
 author - arif
